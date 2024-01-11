@@ -1,0 +1,8 @@
+Admin panel where you can manage all the Shipments, Vehicles, User and Driver.
+TechStack and Library - React, Socket Io,React-redux, shadcn, axios etc
+
+codes are present in src
+    - components
+    - pages
+    - action
+    - api
