@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dunking-Dunk/unfazed-coal/main/client/public/favicon.ico" alt="Unfazed-Coal Logo" width="120">
-</p>
-
 <h1 align="center">
   Unfazed-Coal 🚚
 </h1>
